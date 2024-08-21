@@ -20,7 +20,7 @@ $ npm install @iaraby/methods
 ## API
 
 ```js
-var methods = require('@iaraby/methods')
+var methods = require('@i3raby/methods')
 ```
 
 ### methods
