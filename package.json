@@ -1,0 +1,24 @@
+{
+  "name": "@i3raby/methods",
+  "version": "0.0.1-pkg",
+  "description": "HTTP methods that node supports",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i3raby/methods.git"
+  },
+  "keywords": [
+    "http",
+    "https",
+    "methods"
+  ],
+  "author": "Muhammed <i3rabyx@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/i3raby/methods/issues"
+  },
+  "homepage": "https://github.com/i3raby/methods#readme"
+}
