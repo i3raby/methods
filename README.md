@@ -14,7 +14,7 @@ with the following differences:
 ## Install
 
 ```bash
-$ npm install @iaraby/methods
+$ npm install @i3raby/methods
 ```
 
 ## API
